@@ -17,3 +17,16 @@ An open-source, interactive web application that provides a smart search assista
 
 ## Project Structure
 
+
+## Prerequisites
+
+- **Node.js** v18+ (required for native `fetch` support)
+- A **Perplexity API key** — get one at [docs.perplexity.ai](https://docs.perplexity.ai/guides/getting-started)
+
+## Setup & Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/perplexia-search-assistant.git
+cd perplexia-search-assistant
